@@ -37,4 +37,4 @@ loaded via a namespace (and not attached):
 Please modify the set.wd(path_to_gmtv-Rv1468c.xlsx) in snp_plot.R, then run the code within R
 
 #### Reproducibility
-The expected output is as shown in output.pdf, the labels and colors could be further modified by Adobe Illustrator
+The expected output is as shown in output.pdf, and the labels and colors could be further modified by Adobe Illustrator
