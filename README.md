@@ -3,7 +3,7 @@ Plot protein domain via querying Uniprot Database based on R
 
 #### Package Versions and R sessionInfo
 ```
-R version 3.5.1 (2018-07-02)
+R version 3.4.4 (2018-07-02)
 Platform: x86_64-w64-mingw32/x64 (64-bit)
 Running under: Windows >= 8 x64 (build 9200)
 
